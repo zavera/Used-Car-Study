@@ -10,11 +10,10 @@ consumers value most. The notebook follows the CRISP-DM (Cross-Industry Standard
 
 The dataset used in this analysis is a subset (426K cars) of a larger dataset from Kaggle,
 which originally contained information on 3 million used cars. This smaller dataset was chosen to ensure efficient processing.
+## How to view analysis
+The complete analysis, including code and visualizations, can be viewed in this Jupyter Notebook:
 
-## Goals
-
-*   Identify the key factors that drive the price of a used car.
-*   Provide clear and concise recommendations to a used car dealership.
+https://github.com/zavera/Used-Car-Study/blob/main/prompt_II.ipynb
 
 ## Key Questions to Address
 
@@ -33,7 +32,7 @@ which originally contained information on 3 million used cars. This smaller data
 *   Seaborn
 
 ## Findings
-
+https://github.com/zavera/Used-Car-Study/blob/main/prompt_II.ipynb
 The analysis reveals that car age and type are significant factors influencing used car prices.
 Older cars (car_age) generally exhibit lower prices, reflecting depreciation.
 Additionally the analysis show that certain car types remain high in prices despite the car age. Therefore
