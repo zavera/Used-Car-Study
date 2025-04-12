@@ -32,7 +32,7 @@ https://github.com/zavera/Used-Car-Study/blob/main/prompt_II.ipynb
 *   Seaborn
 
 ## Findings
-https://github.com/zavera/Used-Car-Study/blob/main/prompt_II.ipynb
+
 The analysis reveals that car age and type are significant factors influencing used car prices.
 Older cars (car_age) generally exhibit lower prices, reflecting depreciation.
 Additionally the analysis show that certain car types remain high in prices despite the car age. Therefore
